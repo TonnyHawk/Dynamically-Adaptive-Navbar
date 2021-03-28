@@ -22,7 +22,7 @@ The way it works is you just set a number of elements that should be visible und
 ```js
 topmenu.setItemsOnBreakpoint(3, 1200);
 ```
-Breakpoints are defined as mobile first so the example abow will make 3 items visible until the screen will reach 1200px width  
+Breakpoints are defined as mobile first so the example abow will make only 3 items visible and hide all others until the screen will reach 1200px width  
 You can define multiple breakpoints by this way
 ```js
 topmenu.setItemsOnBreakpoint(3, 1200);
