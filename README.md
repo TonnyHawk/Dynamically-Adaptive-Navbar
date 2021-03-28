@@ -11,7 +11,7 @@ With this thing you can create a navbar which items will always fit to the scree
 # How to use it
 
 ## Markup and styles
-So you can write all styles completely by yourself using a blank file with all class names - **nav-blanc.scss** or the way a recommend to do this - use only **nav-default.scss** and write your styles right into it. Following this way, in most cases, you will only need to set up a font properties, some paddings and margins and you will get a fully responsive navbar, also some media queries were added already
+So you can write all styles completely by yourself using a blank file with all class names - **nav-blanc.scss** or the way a recommend to do this - use only **nav-default.scss** and write your styles right into it. Following this way, in most cases, you will only need to set up a font properties, some paddings and margins and will get a fully responsive navbar, also some media queries were added already
 
 ## Adding functionality
 at first you ned to create a navbar instance and give it your navbar's class name
