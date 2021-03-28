@@ -19,7 +19,7 @@ at first you ned to create a navbar instance and give it your navbar's class nam
 ```js
 let topmenu = new Nav('topmenu');
 ```
-that provides click functionality to navbar's buttons like menu icon (you can see it only on screens under 920px) and expand-menu icon (it appears on a defined breakpoints).  
+that provides click functionality to navbar's buttons like menu icon (you can see it only on screens under 920px) and expand-menu icon (it appears on a defined breakpoints), but yet no adaptivity. 
 
 ## Adding adaptivity
 The way it works is you just set a number of elements that should be visible under specific breakpont.  
