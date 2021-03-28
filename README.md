@@ -5,13 +5,13 @@ With this thing you can create a navbar which items will always fit to the scree
 ### The build contains:
 - **nav.html** - (html sceleton)
 - **nav-blanc.scss** - (all class names without styles)
-- **nav-default.scss** - (basic styles just to shape things up)
+- **nav-default.scss** - (basic styles to shape things up)
 - **nav.js** - all functionality
 
 # How to use it
 
 ## Markup and styles
-So you can write all styles completely by yourself using a blank file with all class names - **nav-blanc.scss** or the way a recommend to do this - use only **nav-default.scss** and write your styles right into it
+So you can write all styles completely by yourself using a blank file with all class names - **nav-blanc.scss** or the way a recommend to do this - use only **nav-default.scss** and write your styles right into it. Following this way, in most cases, you will only need to set up a font-family, some paddings and margins and you will get a fully responsive navbar, also some media queries were added already
 
 ## Adding functionality
 at first you ned to create a navbar instance and give it your navbar's class name
