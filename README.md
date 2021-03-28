@@ -29,5 +29,5 @@ topmenu.setItemsOnBreakpoint(3, 1200);
 topmenu.setItemsOnBreakpoint(2, 1100);
 topmenu.setItemsOnBreakpoint(null, 920);
 ```
-if the number of items is setted as `null` all items will be visible under this beakpoint  
+if the number of items is setted as `null` all items will be visible
 
